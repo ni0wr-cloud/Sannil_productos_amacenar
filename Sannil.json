@@ -1,0 +1,135 @@
+[{
+    "name": "sanilo verde con forma de flor",
+    "image": "placeholder_jabones",
+    "price": "5000"
+},
+    {
+        "name": "sanilo verde con forma de circulo",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanilo verde con forma cuadrado",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanilo verde con forma de racimo de uvas",
+        "image": "placeholder_jabones",
+        "price": "5000",
+        "warning": "atención si accidentalmente comes el jabón pensando que es una uva real, por favor va al médico"
+    },
+
+    {
+        "name": "sanilo blanco con forma de flor",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanilo blanco con forma de circulo",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanilo blanco con for cuadrado",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanilo blanco con forma de racimo de uvas",
+        "image": "placeholder_jabones",
+        "price": "5000",
+        "warning": "atención si accidentalmente comes el jabón pensando que es una uva real, por favor va al médico"
+    },
+    {
+        "name": "sanila verde con forma de flor",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanila verde con forma de circulo",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanila verde con forma cuadrado",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanila verde con forma de racimo de uvas",
+        "image": "placeholder_jabones",
+        "price": "5000",
+        "warning": "atención si accidentalmente comes el jabón pensando que es una uva real, por favor va al médico"
+    },
+
+    {
+        "name": "sanila blanco con forma de flor",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanila blanco con forma de circulo",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanila blanco con for cuadrado",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanila blanco con forma de racimo de uvas",
+        "image": "placeholder_jabones",
+        "price": "5000",
+        "warning": "atención si accidentalmente comes el jabón pensando que es una uva real, por favor va al médico"
+    },
+    {
+        "name": "sanilo cristalin verde con forma de flor",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanilo cristalin verde con forma de circulo",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanilo cristalin verde con forma cuadrado",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanilo cristalin verde con forma de racimo de uvas",
+        "image": "placeholder_jabones",
+        "price": "5000",
+        "warning": "atención si accidentalmente comes el jabón pensando que es una uva real, por favor va al médico"
+    },
+
+    {
+        "name": "sanilo cristalin blanco con forma de flor",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanilo cristalin blanco con forma de circulo",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanilo cristalin blanco con for cuadrado",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    },
+    {
+        "name": "sanilo cristalin blanco con forma de racimo de uvas",
+        "image": "placeholder_jabones",
+        "price": "5000",
+        "warning": "atención si accidentalmente comes el jabón pensando que es una uva real, por favor va al médico"
+    },
+    {
+        "name": "sanilo transparente",
+        "image": "placeholder_jabones",
+        "price": "5000"
+    }
+]
