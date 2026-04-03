@@ -1,0 +1,20 @@
+sannil es un negocio de jabones que rejuvenece la piel con vitamina e y arroz 
+nuestros productos tienen dos colores: 
+verde 
+negro 
+
+------lenguaje sannilus------
+
+anteriormente cuando iniciamos la idea de los jabones sannil, ponía nombres como Sanilo "verdus fur"
+
+y estos son los significados:
+verdus: significa el color verde 
+blanus: significa el color blanco 
+fur: flor
+cicus: circulo
+si a último no hay nada por ejemplo si solo sale Sanilo verdus: cuadrado 
+morus: racismo de uvas
+
+estamos implementando a la app como broma a los días de inocentes en el 28 de diciembre
+y también añadimos un botón si quiere revivir estos lenguaje "sannilus" del día inocentes
+
